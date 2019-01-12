@@ -14,7 +14,7 @@
 | [Devfest Paris](https://devfest-paris-2019.firebaseapp.com/) | 08/02/2019 | 08/02/2019 | Paris | https://conference-hall.io/public/event/IaNjQ9YK9G4lMIhjvP9C | - | - |
 | [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
 | [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
-| [Devoxx Maroc](https://devoxx.ma/) | 27/11/2019 | 29/11/2018 | Marrakech | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 |
+| [Devoxx Maroc](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 |
 | [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
 | [Bdx.io](https://www.bdx.io/) | 09/11/2018 | 09/11/2018 | Bordeaux | https://cfp.bdx.io/ | 04/06/2018 | 31/08/2018 |
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | 08/11/2018 | 08/11/2018 | Toulouse | https://devfest-toulouse.cfp.io/ | - | - |
