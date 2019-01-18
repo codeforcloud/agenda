@@ -1,7 +1,8 @@
 | Nom de la conférence | Début | Fin | Ville | CFP | Début | Fin |
 |-|-|-|-|-|-|-|
-| [DevOps World](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | - | - | - |
-| [DevOps World](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | - | - | - |
+| [DevOps World](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 09/06/2019 |
+| [DevOps World](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 10/03/2019 |
+| [DataXDay](https://dataxday.fr/) | 27/06/2019 | 27/06/2019 | Paris | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2018 | 31/03/2019 |
 | [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
 | [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2019 | 21/06/2019 | Luxembourg | https://cfp-voxxed-lux.yajug.org/ | 15/01/2019 | 03/03/2019 |
 | [Devfest Lille](https://devfest.gdglille.org/) | 14/06/2019 | 14/06/2019 | Lomme | https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx | 13/11/2018 | 31/03/2019 |
