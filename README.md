@@ -22,3 +22,5 @@
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | 08/11/2018 | 08/11/2018 | Toulouse | https://devfest-toulouse.cfp.io/ | - | - |
 | [Voxxed Microservices](https://voxxeddays.com/microservices/) | 29/10/2018 | 31/10/2018 | Paris | https://vxdms2018.confinabox.com/ | 15/04/2018 | 31/05/2018 |
 | [Devfest Nantes](https://devfest.gdgnantes.com/) | 18/10/2018 | 19/10/2018 | Nantes | https://conference-hall.io/public/event/inzOQDR94h4bAaOVd7Db | - | - |
+| [Kubecon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) | 21/05/2019 | 23/05/2019 | Barcelone | https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/ | 16/11/2018 | 18/01/2019 |
+| [Dockercon](https://events.docker.com/events/dockercon/) | 29/04/2019 | 02/05/2019 | San Francisco | - | - | - |
