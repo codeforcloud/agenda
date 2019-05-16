@@ -34,7 +34,7 @@ import { Component, Prop, Vue } from 'vue-property-decorator';
 
 @Component
 export default class HelloWorld extends Vue {
-  mounted() {
+  protected mounted() {
     const data = require('../../data.json');
 
     return data;
