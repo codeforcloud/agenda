@@ -25,35 +25,35 @@ import { Component, Vue } from 'vue-property-decorator';
 export default class HelloWorld extends Vue {
   public conferencesData = [
             {
-            "name": "Toto",
-            "url": "https://www.google.fr",
-            "date": {
-                "start": "2018",
-                "end": "2018"
+            name: 'Toto',
+            url: 'https://www.google.fr',
+            date: {
+                start: '2018',
+                end: '2018',
             },
-            "cfp": {
-                "url": "https://www.google.fr",
-                "date": {
-                    "start": "2018",
-                    "end": "2018"
-                }
-            }
+            cfp: {
+                url: 'https://www.google.fr',
+                date: {
+                    start: '2018',
+                    end: '2018',
+                },
+            },
         },
         {
-            "name": "Tata",
-            "url": "https://www.google.fr",
-            "date": {
-                "start": "2018",
-                "end": "2018"
+            name: 'Tata',
+            url: 'https://www.google.fr',
+            date: {
+                start: '2018',
+                end: '2018',
             },
-            "cfp": {
-                "url": "https://www.google.fr",
-                "date": {
-                    "start": "2018",
-                    "end": "2018"
-                }
-            }
-        }
+            cfp: {
+                url: 'https://www.google.fr',
+                date: {
+                    start: '2018',
+                    end: '2018',
+                },
+            },
+        },
   ];
 }
 </script>
