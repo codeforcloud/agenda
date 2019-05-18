@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>Welcome to Your Vue.js + TypeScript App</h1>
+  <div class="conferences">
+    <h1>List of conferences</h1>
     <ul v-for="conference in conferencesData" v-bind:key="conference">
       <li>{{ conference.name }}</li>
       <li><a :href="conference.url">{{ conference.url }}</a></li>
@@ -24,36 +24,36 @@ import { Component, Vue } from 'vue-property-decorator';
 @Component
 export default class HelloWorld extends Vue {
   public conferencesData = [
-            {
-            name: 'Toto',
-            url: 'https://www.google.fr',
-            date: {
-                start: '2018',
-                end: '2018',
-            },
-            cfp: {
-                url: 'https://www.google.fr',
-                date: {
-                    start: '2018',
-                    end: '2018',
-                },
-            },
+    {
+      name: 'Toto',
+      url: 'https://www.google.fr',
+      date: {
+        start: '2018',
+        end: '2018',
+      },
+      cfp: {
+        url: 'https://www.google.fr',
+        date: {
+          start: '2018',
+          end: '2018',
         },
-        {
-            name: 'Tata',
-            url: 'https://www.google.fr',
-            date: {
-                start: '2018',
-                end: '2018',
-            },
-            cfp: {
-                url: 'https://www.google.fr',
-                date: {
-                    start: '2018',
-                    end: '2018',
-                },
-            },
+      },
+    },
+    {
+      name: 'Tata',
+      url: 'https://www.google.fr',
+      date: {
+        start: '2018',
+        end: '2018',
+      },
+      cfp: {
+        url: 'https://www.google.fr',
+        date: {
+          start: '2018',
+          end: '2018',
         },
+      },
+    },
   ];
 }
 </script>
@@ -63,11 +63,11 @@ export default class HelloWorld extends Vue {
 h3 {
   margin: 40px 0 0;
 }
-/* ul {
+ul {
   list-style-type: none;
   padding: 0;
 }
-li {
+/* li {
   display: inline-block;
   margin: 0 10px;
 } */
