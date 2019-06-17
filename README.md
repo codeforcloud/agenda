@@ -32,7 +32,7 @@
 | [Breizhcamp](https://www.breizhcamp.org/) | 20/03/2019 | 22/03/2019 | Rennes | https://breizhcamp.cfp.io/ | 12/10/2018 | 20/01/2019 |
 | [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 22/02/2019 | 22/02/2019 | Brest | https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx | - | - |
 | [Devfest Paris](https://devfest-paris-2019.firebaseapp.com/) | 08/02/2019 | 08/02/2019 | Paris | https://conference-hall.io/public/event/IaNjQ9YK9G4lMIhjvP9C | - | - |
-| [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
+| [Touraine Tech](https://touraine.tech/) | 31/01/2020 | 31/01/2020 | Tours | https://conference-hall.io/speaker/event/ihmyut4ulJwU7UMSGbt4 | 01/09/2019 | 30/11/2019 |
 | [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
 | [Devoxx Maroc](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 |
 | [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
