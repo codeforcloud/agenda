@@ -1,42 +1,35 @@
-| Nom de la conférence | Début | Fin | Ville | CFP | Début | Fin |
-|-|-|-|-|-|-|-|
-| [DevOps World](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 09/06/2019 |
-| [Bdx.io](https://www.bdx.io/) | 15/11/2019 | 15/11/2019 | Bordeaux | https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8 | 06/05/2019 | 01/07/2019 |
-| [DevopsDDay](http://2019.devops-dday.com/) | 13/11/2019 | 14/11/2019 | Marseille | https://docs.google.com/forms/d/e/1FAIpQLSeZUhd73ZiadFC3LWrTXEzr-4LKmQbGyuHG7JLgEcvlrG89Ew/viewform | 06/05/2019 | 01/07/2019 |
-| [BlendWeb Mix](https://www.blendwebmix.com/) | 13/11/2019 | 14/11/2019 | Lyon | https://blendwebmix2019.workable.com/j/D4B4176C74?viewed=true | 01/04/2019 | 19/05/2019 |
-| [Devoxx Maroc](https://devoxx.ma/) | 12/11/2019 | 14/11/2019 | Marrakesh | https://cfp.devoxx.ma/ | 20/05/2019 | 28/06/2019 |
-| [Devfest Nantes](https://devfest.gdgnantes.com/) | 21/10/2019 | 22/10/2019 | Nantes | https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z | 10/05/2019 | 30/06/2019 |
-| [SpringOne Plateform](https://springoneplatform.io/) | 07/10/2019 | 10/10/2019 | Austin | https://springoneplatform.io/2019/cfp | 01/03/2019 | 12/04/2019 |
-| [Devfest Toulouse](https://devfesttoulouse.fr/) | 03/10/2019 | 03/10/2019 | Toulouse | https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi | 10/04/2019 | 25/05/2019 |
-| [JUG Summer Camp](http://www.jugsummercamp.org/edition/10) | 13/09/2019 | 13/09/2019 | La Rochelle | https://conference-hall.io/public/event/iv4n41NXE01cFHgjyiIp | 01/04/2019 | 14/06/2019 |
-| [DevOps World](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 10/03/2019 |
-| [HashiConf EU](https://hashiconfeu.hashicorp.com/) | 08/07/2019 | 10/07/2019 | Amsterdam | https://hashiconfeu.hashicorp.com/#submit-a-talk | 01/11/2018 | 01/03/2019 |
-| [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
-| [JHipster Conf](https://jhipster-conf.github.io/index.html) | 27/06/2019 | 27/06/2019 | Paris | https://docs.google.com/forms/d/1MJQrtjZZ2RKXtVD3nFmovtB804ehr-ebqg2nCvisnLs/viewform?edit_requested=true | 02/01/2019 | 28/02/2019 |
-| [DataXDay](https://dataxday.fr/) | 27/06/2019 | 27/06/2019 | Paris | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | 15/01/2019 | 31/03/2019 |
-| [Container Days](https://www.containerdays.io/) | 24/06/2019 | 26/06/2019 | Hamburg | https://sessionize.com/condays19 | 01/11/2018 | 01/02/2019 |
-| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2019 | 21/06/2019 | Luxembourg | https://cfp-voxxed-lux.yajug.org/ | 15/01/2019 | 03/03/2019 |
-| [Devfest Lille](https://devfest.gdglille.org/) | 14/06/2019 | 14/06/2019 | Lomme | https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx | 13/11/2018 | 31/03/2019 |
-| [Voxxed Athens](https://voxxeddays.com/athens/) | 07/06/2019 | 08/06/2019 | Athènes | https://vxdathens19.confinabox.com/ | 14/12/2018 | 20/01/2019 |
-| [Best of web](http://bestofweb.paris/) | 06/06/2019 | 07/06/2019 | Paris | https://checkout.eventlama.com/#/events/best-of-web-2019/cfp | 01/03/2019 | 01/05/2019 |
-| [Web2Day](https://web2day.co/) | 05/06/2019 | 07/06/2019 | Nantes | https://web2day-2019.selecteev.io/ | 07/01/2019 | 03/03/2019 |
-| [Paris Container Day](https://paris-container-day.fr/) | 04/06/2019 | 04/06/2019 | Paris | https://cfp.paris-container-day.fr/ | 15/01/2019 | 01/03/2019 |
-| [Voxxed Singapore](https://voxxeddays.com/singapore/) | 30/05/2019 | 31/05/2019 | Singapour | https://vxdsingapore2019.confinabox.com/ | 18/10/2018 | 27/01/2019 |
-| [MixIT](https://mixitconf.org/) | 23/05/2019 | 24/05/2018 | Lyon | https://sessionize.com/mixit19/ | 01/11/2018 | 20/01/2019 |
-| [Kubecon Europe](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) | 21/05/2019 | 23/05/2019 | Barcelone | https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/cfp/ | 16/11/2018 | 18/01/2019 |
-| [NewCrafts](https://ncrafts.io/) | 16/05/2019 | 17/05/2019 | Paris | http://cfp.ncrafts.io/ | 23/11/2018 | 03/03/2019 |
-| [RivieraDev](http://rivieradev.fr/) | 15/05/2019 | 17/05/2019 | Sophia-Antipolis | http://rivieradev.fr/cfp | 19/11/2018 | 31/01/2019 |
-| [Devoxx UK](https://www.devoxx.co.uk/) | 08/05/2019 | 10/05/2019 | Londres | https://devoxxuk19.confinabox.com/ | 15/11/2018 | 11/01/2019 |
-| [Dockercon SF](https://www.docker.com/dockercon/) | 29/04/2019 | 02/05/2019 | San Francisco | - | - | - |
-| [Devoxx FR](https://www.devoxx.fr/) | 17/04/2019 | 19/04/2019 | Paris | https://cfp.devoxx.fr/ | 01/12/2018 | 14/01/2019 |
-| [Breizhcamp](https://www.breizhcamp.org/) | 20/03/2019 | 22/03/2019 | Rennes | https://breizhcamp.cfp.io/ | 12/10/2018 | 20/01/2019 |
-| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 22/02/2019 | 22/02/2019 | Brest | https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx | - | - |
-| [Devfest Paris](https://devfest-paris-2019.firebaseapp.com/) | 08/02/2019 | 08/02/2019 | Paris | https://conference-hall.io/public/event/IaNjQ9YK9G4lMIhjvP9C | - | - |
-| [Touraine Tech](https://touraine.tech/) | 01/02/2019 | 01/02/2019 | Tours | https://cfp.touraine.tech/ | 12/10/2018 | 09/12/2018 |
-| [Snowcamp](http://snowcamp.io/fr/) | 23/01/2019 | 26/01/2019 | Grenoble | https://www.papercall.io/snowcamp-2019 | - | 04/11/2018 |
-| [Devoxx Maroc](https://devoxx.ma/) | 27/11/2018 | 29/11/2018 | Marrakech | https://cfp.devoxx.ma/ | 04/06/2018 | 20/07/2018 |
-| [Codeurs en Seine](https://www.codeursenseine.com/) | 22/11/2018 | 22/11/2018 | Rouen | https://codeursenseine.cfp.io/ | - | - |
-| [Bdx.io](https://www.bdx.io/) | 09/11/2018 | 09/11/2018 | Bordeaux | https://cfp.bdx.io/ | 04/06/2018 | 31/08/2018 |
-| [Devfest Toulouse](https://devfesttoulouse.fr/) | 08/11/2018 | 08/11/2018 | Toulouse | https://devfest-toulouse.cfp.io/ | - | - |
-| [Voxxed Microservices](https://voxxeddays.com/microservices/) | 29/10/2018 | 31/10/2018 | Paris | https://vxdms2018.confinabox.com/ | 15/04/2018 | 31/05/2018 |
-| [Devfest Nantes](https://devfest.gdgnantes.com/) | 18/10/2018 | 19/10/2018 | Nantes | https://conference-hall.io/public/event/inzOQDR94h4bAaOVd7Db | - | - |
+| Nom de la conférence | Début | Fin | Ville | Tarif | Participants | CFP | Début | Fin | Soumissionnaires |
+|-|-|-|-|-|-|-|-|-|-|
+| [Snowcamp](http://snowcamp.io/fr/) | 22/01/2020 | 25/01/2020 | Grenoble | 150€ | 450 | https://www.papercall.io/snowcamp-2019 | - | closed | - |
+| [Touraine Tech](https://touraine.tech/) | 31/01/2020 | 31/01/2020 | Tours | 25€ | 300 | https://cfp.touraine.tech/ | - | closed | - |
+| [Devfest Paris](https://devfest.gdgparis.com/) | 14/02/2019 | 08/02/2019 | Issy-les-Moulineaux | 90€ | 1'200 | ? | ? | ? | - |
+| [Devfest du bout du monde](https://devfest.duboutdumonde.bzh/) | 28/02/2020 | 28/02/2020 | Brest | 30€ | 400 | https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD | - | closed | - |
+| [Voxxed Zurich](https://voxxeddays.com/zurich/) | 10/03/2020 | 10/03/2020 | Zurich | 300€ | 500 | https://vdz20.cfp.dev/#/login | - | 09/12/2019 | - |
+| [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 17/03/2020 | 17/03/2020 | Paris | 0€ | 6'000 | - | - | - | - |
+| [Breizhcamp](https://www.breizhcamp.org/) | 25/03/2020 | 27/03/2020 | Rennes | ?€ | 700 | https://breizhcamp.cfp.io/ | ? | ? | - |
+| [Kubecon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | 30/03/2020 | 02/04/220 | Amsterdam | 1500€ | 10'000 | https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp/#overview | 02/10/2019 | 04/12/2019 | - |
+| [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) | 06/04/202 | 08/04/2020 | San Fransisco | $1'700 | 10'000 | - | - | - | - |
+| [Devoxx FR](https://www.devoxx.fr/) | 15/04/2020 | 17/04/2020 | Paris | 625€| ? | https://cfp.devoxx.fr/ | 02/12/2019 | 12/01/2020 | - |
+| [MixIT](https://mixitconf.org/) | 29/04/2020 | 30/04/2020 | Lyon | ? | 1200 | https://www.papercall.io/mixit20 | - | 15/01/2019 | - |
+| [Devoxx UK](https://www.devoxx.co.uk/) | 13/05/2020 | 15/05/2020 | Londres | £465 | 1'400 | https://devoxxuk20.cfp.dev/ | - | 13/01/2020 | - |
+| [RivieraDev](http://rivieradev.fr/) | 13/05/2019 | 15/05/2019 | Sophia-Antipolis | 150€ | 500 | https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL | - | 15/02/2020 | - |
+| [Voxxed Milan](https://voxxeddays.com/milan/) | 16/05/2020 | 16/05/2020 | Milan | 150€ | ? | https://vdm20.cfp.dev/ | ? | 27/01/2020 | - |
+| [NewCrafts Paris](https://ncrafts.io/) | 28/05/2020 | 29/05/2020 | Paris | 580€ | ? | https://sessionize.com/newcrafts-paris-2020/ | 11/12/2019 | 01/03/2020 | - |
+| [Devfest Lille](https://devfest.gdglille.org/) | 12/06/2020 | 12/06/2020 | Lomme | ? | 800 | https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ | 19/12/2019 | ? | - |
+| [Dockercon](https://www.docker.com/dockercon/) | 15/06/2020 | 18/06/2020 | Austin | $?| ? | - | - | - | - |
+| [Voxxed Luxembourg](https://voxxeddays.com/luxembourg/) | 20/06/2020 | 21/06/2020 | Mondorf-les-Bains | ? | 500 | ? | ? | ? | - |
+| [Container Days](https://www.containerdays.io/) | 22/06/2020 | 24/06/2020 | Hamburg | 499€ | 1000 |https://sessionize.com/containerdays-2020/ | 20/11/2019 | 29/02/2020 | - |
+| [SunnyTech](https://sunny-tech.io/) | 02/07/2020 | 03/07/2020 | Montpellier | 90€ | 500 | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 02/12/2019 | 28/02/2020 | - |
+| [DevOps World Las Vegas](https://www.cloudbees.com/devops-world/) | 21/09/2020 | 24/09/2020 | Las Vegas | $799 | ? | ? | ? | ? | - |
+| [Devfest Toulouse](https://devfesttoulouse.fr/) | ? | ? | Toulouse | ?€ | 1'000 | https://devfest-toulouse.cfp.io/ | - | - | - |
+| [Devfest Nantes](https://devfest.gdgnantes.com/) | ? | ? | Nantes | 100€ | 2'000 | ? | - | - | - |
+| [DataXDay](https://dataxday.fr/) | ? | ? | Paris | ? | ? | https://conference-hall.io/public/event/sciLlnq7UjZdqYhVCMHO | ? | ? | - |
+| [Web2Day](https://web2day.co/) | ?/?/2021 | ?/?/2021 | Nantes | ? | ? | ? | ? | - |
+| [Paris Container Day](https://paris-container-day.fr/) | ? | ? | Paris | ? | ? | https://cfp.paris-container-day.fr/ | ? | ? | - |
+| [Devoxx MA](https://devoxx.ma/) | ? | ? | Marrakech | ?€ | ? | https://cfp.devoxx.ma/ | ? | ? | - |
+| [Voxxed Microservices](https://voxxeddays.com/microservices/) | ? | ? | Paris | ?€ | ? | https://vxdms2018.confinabox.com/ | ? | ? | - |
+| [Codeurs en Seine](https://www.codeursenseine.com/) | ? | ? | Rouen | 0€ | 900 | https://codeursenseine.cfp.io/ | - | - | - |
+| [Bdx.io](https://www.bdx.io/) | ? | ? | Bordeaux | 80€ | 900 | https://cfp.bdx.io/ | ? | ? | - |
+| [AWS re:Invent](https://reinvent.awsevents.com/) | ? | ? | Las Vegas | $1'800 | 60'000 | - | - | - |
+| [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | ? | ? | Orlando | $? | ? | - | - | - | - |
+| [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-par-19/home.html) | 18/06/2019 | 18/06/2019 | Paris | ?€ | ? | - | - | - | - |
